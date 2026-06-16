@@ -1,1 +1,1 @@
-title = 'Enterprise Portal';
+title = 'Enterprise Portal v2';
